@@ -5,3 +5,4 @@ matplotlib
 seaborn
 plotly
 scikit-fuzzy==0.5.0
+sklearn
