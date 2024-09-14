@@ -1,4 +1,3 @@
-streamlit
 openai
 pandas
 numpy
@@ -8,3 +7,5 @@ boto3
 matplotlib
 plotly
 scipy
+skfuzzy
+sklearn
