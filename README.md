@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43d6277d-bea8-496b-b6c3-354d57477b07)﻿# Machine Learning Assignment
+
 ### Chess Clustering Analysis
 In collaboration with:
 1. https://github.com/Yeeen0822
